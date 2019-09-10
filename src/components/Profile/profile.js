@@ -4,7 +4,7 @@ import MyPosts from "./MyPosts/MyPosts";
 
 const Profile = () => {
     return (
-        <div className= {classes.content}>
+        <div>
             <div className={classes.banner}>
                 <img src="http://www.mqi.bb/images/2017/BMW-Banner.jpg" alt="banner"/>
             </div>
