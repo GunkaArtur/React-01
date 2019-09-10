@@ -3,6 +3,10 @@
     background-color: bisque;
 }
 
+.banner img {
+    height: 150px;
+}
+
 .item {
     color: green;
 }
