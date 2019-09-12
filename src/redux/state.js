@@ -17,11 +17,11 @@ let state = {
             { id: 4, massage: 'Yo' },
         ],
         dialogs : [
-            { id: 0, name: 'Вася' },
-            { id: 1, name: 'Ира' },
-            { id: 2, name: 'Лена' },
-            { id: 3, name: 'Ваня' },
-            { id: 4, name: 'Маша' },
+            { id: 0, name: 'Вася', img: 'https://lapkins.ru/upload/iblock/a5a/a5ac1cf0c810f673a0f4032b85fc9f6b.jpg' },
+            { id: 1, name: 'Ира', img: 'https://sobaki.guru/wp-content/auploads/342753/amerikanskiy_pitbulterer.jpg' },
+            { id: 2, name: 'Лена', img: 'https://vignette.wikia.nocookie.net/dogopedyrussian/images/d/d8/267px-Deutscher_Sch%C3%A4ferhund-_portrait-2.JPG/revision/latest?cb=20180908151006&path-prefix=ru' },
+            { id: 3, name: 'Ваня', img: 'https://lapkins.ru/upload/iblock/b61/b61169457eab98ed122cda7e99579a5a.jpg' },
+            { id: 4, name: 'Маша', img: 'https://st.depositphotos.com/2869437/3739/i/450/depositphotos_37392643-stock-photo-close-up-of-pug.jpg' },
         ]
     },
 }

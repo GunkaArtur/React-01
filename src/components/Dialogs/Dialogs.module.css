@@ -10,6 +10,11 @@
 
 .dialog {
     padding: 10px;
+    vertical-align: center;
+}
+.dialog img {
+    height: 50px;
+    border-radius: 25px;
 }
 
 .messages {
